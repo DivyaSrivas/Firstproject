@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">firstproject</string>
+    <string name="Name">Name</string>
+    <string name="Department">Department</string>
+    <string name="Phone">Mobile</string>
+    <string name="email">EmailID</string>
+    <string name="password">Password</string>
+    <string name="Submit">Submit</string>
+</resources>
